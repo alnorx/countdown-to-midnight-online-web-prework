@@ -6,6 +6,5 @@ while counter<number
  "#{number} SECOND(S)!"
 puts
 counter=number-=1
+end"HAPPY NEW YEAR!"
 end
-end
-"HAPPY NEW YEAR!"
