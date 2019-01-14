@@ -1,4 +1,10 @@
 #write your code here
 
-def countdown
+def countdown(tx)
+counter=0
+while counter<tx
+
+puts
+
+
 end
