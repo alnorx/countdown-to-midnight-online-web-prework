@@ -20,7 +20,7 @@ while counter<number
 puts"#{number} SECOND(S)!"
 
 number-=1
-sleep 6
+sleep number
 end
 "HAPPY NEW YEAR!"
 end
